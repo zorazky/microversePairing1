@@ -1,3 +1,9 @@
 
-#image { size: auto,
-  align: center;}
+#image { 
+    size: auto;
+    text-align: center;
+  }
+
+  #img-div {
+    text-align:center;
+  }
