@@ -2,6 +2,8 @@
 #image { 
     size: auto;
     text-align: center;
+    max-width: 80%;
+    display:block;
   }
 
   #img-div {
